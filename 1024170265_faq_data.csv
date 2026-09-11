@@ -1,0 +1,7 @@
+question,answer,keywords,category,confidence
+what is the annual fee,The annual fee is Rs 500.,fee cost price charge billing,billing,0.25
+how to reset password,Go to Settings > Reset Password.,password reset login,account,0.5
+what are your working hours,We are open 9 AM to 5 PM.,hours timing open time,general,0.0
+how can i pay the fee,"You can pay via UPI, card, or net banking.",pay payment upi fee,billing,0.75
+how do i download my payment receipt,Go to Payments > Transaction History to download receipts.,receipt invoice download bill,billing,0.25
+where is the campus library located,The library is on the second floor of the main academic block.,library campus books location,general,0.0
